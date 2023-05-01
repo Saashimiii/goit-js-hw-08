@@ -1,0 +1,2 @@
+if(localStorage.getItem("feedback-form-state")){const e=JSON.parse(localStorage.getItem("feedback-form-state"));e.email&&(email=e.email,input.value=email),e.message&&(message=e.message,textarea.value=message)}if(localStorage.getItem("feedback-form-state")){const e=JSON.parse(localStorage.getItem("feedback-form-state"));e.email&&(email=e.email,input.value=email),e.message&&(message=e.message,textarea.value=message)}
+//# sourceMappingURL=03-feedback.d35f37b5.js.map
